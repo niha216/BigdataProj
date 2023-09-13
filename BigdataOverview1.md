@@ -42,7 +42,6 @@ Big Data refers to vast volumes of data that cannot be processed effectively wit
 
 ## Sources
 1. Smith, J. (2020). *Introduction to Big Data*. Big Data Publishing.
-2. Doe, A. & Lee, B. (2019). *Data Analysis in the Modern Era*. TechPress.
-3. Kumar, R., Singh, P., & Gupta, S. (2021). *Exploring the V's of Big Data*. Journal of Data Science, 15(3), 456-478.
+1. Kumar, R., Singh, P., & Gupta, S. (2021). *Exploring the V's of Big Data*. Journal of Data Science, 15(3), 456-478.[https://www.sciencedirect.com/science/article/pii/S2667096821000100](https://www.sciencedirect.com/science/article/pii/S2667096821000100).
 4. Anderson, L. (2018). *Challenges in Big Data Analytics*. International Journal of Computer Science, 12(5), 89-104.
 5. DataTech Corp. (2020). *Whitepaper on Phases of Big Data Analysis*. Retrieved from [https://www.datatechcorp.com/whitepapers/bigdataanalysis](https://www.datatechcorp.com/whitepapers/bigdataanalysis).
